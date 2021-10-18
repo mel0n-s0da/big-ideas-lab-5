@@ -8,7 +8,7 @@ Our program prints out the user's name for an amount of numbers they request!
 # Installation & Use 
 ## License
 Distributed by GNU General Public License v3.0 
-<br/> *We chose this license because we want anyone to be able to easily take advantage of our code in thier project!*
+<br/> *We chose this license because we want anyone to be able to easily take advantage of our code in their project!*
 ## Installation 
 1. Open your favorite JupyterNotebook software
 2. Download something.ipynb 
