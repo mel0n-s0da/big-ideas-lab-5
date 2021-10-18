@@ -15,7 +15,8 @@ Distributed by GNU General Public License v3.0
 3. Open something.ipynb on your favorite JupyterNotebook software! 
 
 ## Use 
-You can use this project for anything your imagination desires! 
+Our code, written in Python, takes inputs of a name and an integer and uses a for loop to print out the name the requested amount of times. 
+<br/> You can use this project for anything your imagination desires! 
 
 # How to contribute 
 
