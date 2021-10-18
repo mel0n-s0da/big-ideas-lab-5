@@ -31,4 +31,4 @@ Steps:
 
 ## Code of Conduct 
 In compliance with our Code of Conduct, we would like this project to be an inclusive and collaborative space. Please review the Code for details of acceptable behavior, but generally speaking: please be respectful of others and their code. Thank you! 
-*We chose this Code of Conduct to encourage the participation of everyone. It is very important to us that the integrity of our open source project is maintained and everyone feels confortable contributing.*
+<br>*We chose this Code of Conduct to encourage the participation of everyone. It is very important to us that the integrity of our open source project is maintained and everyone feels confortable contributing.*
